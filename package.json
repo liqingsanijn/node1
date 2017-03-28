@@ -1,0 +1,23 @@
+{
+	"name": "node1",
+	"version": "0.0.1",
+	"description": "node1 is a test project",
+	"main": "app.js",
+	"scripts": {
+		"start": "node app.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+ssh://git@github.com:liqingsanijn/node1.git"
+	},
+	"keywords": [
+	"node",
+	"test"
+	],
+	"author": "jingx",
+	"license": "MIT",
+	"homepage": "https://github.com/liqingsanijn/node1#readme",
+	"dependencies": {
+		"log4js": "0.6.31"
+	}
+}
