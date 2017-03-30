@@ -18,6 +18,7 @@
   "license": "MIT",
   "homepage": "https://github.com/liqingsanijn/node1#readme",
   "dependencies": {
+    "bluebird": "3.5.0",
     "lodash": "4.17.4"
   }
 }
