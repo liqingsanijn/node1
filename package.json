@@ -19,6 +19,8 @@
   "homepage": "https://github.com/liqingsanijn/node1#readme",
   "dependencies": {
     "bluebird": "3.5.0",
-    "lodash": "4.17.4"
+    "highland": "^2.10.5",
+    "lodash": "4.17.4",
+    "node-webkit": "0.0.0"
   }
 }

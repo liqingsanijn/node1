@@ -35,3 +35,6 @@ function logFile(f) {
 	console.log(f);
 	return f;
 }
+function find(effect) {
+	setTimeout()
+}
